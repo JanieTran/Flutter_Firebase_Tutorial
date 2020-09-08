@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "166679101667",
+    "firebase_url": "https://toy-project-ad790.firebaseio.com",
+    "project_id": "toy-project-ad790",
+    "storage_bucket": "toy-project-ad790.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166679101667:android:3102b29dccf7d89bf545d6",
+        "android_client_info": {
+          "package_name": "com.example.firebase_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166679101667-6u5vj7k44tm8me75v3nbftbjgfmutoov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGFJx9qOEeui4T-OdZwPAjEOnvn3aNOEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166679101667-6u5vj7k44tm8me75v3nbftbjgfmutoov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
